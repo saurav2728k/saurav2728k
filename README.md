@@ -1,8 +1,10 @@
-- 👋 Hi, I’m Saurav Kumar currently i'm pursuing Btech from Technocrats Institute of Technology
+- 👋 Hi, I’m Saurav Kumar currently.
+- 😎 I'm pursuing Btech from Technocrats Institute of Technology
 - 👀 I’m interested in web devlopment.
-- 🌱 I’m currently learning DSA.
 - 📫 How to reach me workwithsaurav.in@gmail.com
 - 😄 Pronouns: He/Him
+- 🔥I have build doctor appointment booking and travel story sharing application.
+- 
 -
 
 <!---
